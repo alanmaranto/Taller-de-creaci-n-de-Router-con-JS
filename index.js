@@ -1,3 +1,3 @@
-window.history.pushState({ data: 'Movimiento'}, 'Title', '/');
+const router = new Router(routes);
 
 // http-server-spa . ./index.html
